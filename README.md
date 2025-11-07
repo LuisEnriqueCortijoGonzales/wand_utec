@@ -1,4 +1,4 @@
-# wand
+# wand_utec
 
 Wand makes it easy to configure dash, houdini and a media server utilizing docker & docker-compose.
 
